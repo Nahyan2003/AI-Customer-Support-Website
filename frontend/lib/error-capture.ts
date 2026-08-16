@@ -12,7 +12,7 @@ export function consumeLastCapturedError(): Error | undefined {
     return error;
   }
 
-  if (error) == null) {
+  if (error == null) {
     return undefined;
   }
 
