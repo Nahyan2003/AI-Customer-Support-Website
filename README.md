@@ -16,6 +16,7 @@ An AI-powered customer support application that combines deterministic business 
 * n8n workflow automation
 * Modern Lovable frontend
 
+
 ## Architecture
 
 User → Lovable Frontend → FastAPI → Policy Checker / RAG → Pinecone → Hugging Face LLM → Response
